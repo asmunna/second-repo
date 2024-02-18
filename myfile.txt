@@ -2,3 +2,5 @@ this is my file
 second line added
 this is line three
 line number four!!!
+this is line five
+this is sixth line
